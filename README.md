@@ -1,1 +1,1 @@
-# Personalized-News-
+# Personalized News
